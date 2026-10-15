@@ -1,4 +1,4 @@
-# Olá, me chamo Paulo Henrique Garbo
+# 😎​ Olá, me chamo Paulo Henrique Garbo
 
 Sou estudante em formação na Unochapecó e atuo como desenvolvedor estagiário Full Stack, trabalhando com Node.js e Next.js.
 
