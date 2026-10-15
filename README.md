@@ -12,7 +12,7 @@ Tenho interesse em arquitetura de software, automação e agentes de IA. Gosto d
 
 ## Projetos
 
-- **[Leedfly](https://github.com/paulohguno/leedfly-tamplate-front)** — CRM com automações de IA para descoberta e qualificação de leads. *Em desenvolvimento.*
+- **[Leedfly](https://leedfly-tamplate-front.vercel.app/)** — CRM com automações de IA para descoberta e qualificação de leads. *Em desenvolvimento.*
 - **Agent Harness Avatar** — Sistema de criação de vídeos motion com avatares para apresentação de produtos.
 - **Adegaf** — CRM simples para gerenciamento de adegas. Projeto universitário.
 - **VisionBlock** — Extensão para Google Chrome que bloqueia anúncios relacionados a apostas, futebol e outros conteúdos selecionados. Projeto universitário.
